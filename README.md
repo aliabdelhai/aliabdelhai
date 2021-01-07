@@ -1,8 +1,7 @@
 
 🛠 Tools I'm Using:
-----------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------
 JavaScript, React, Node.js, MongoDB, mysql, HTML5, CSS3, Git
-
 
 <!--
 **aliabdelhai/aliabdelhai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
